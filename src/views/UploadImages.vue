@@ -13,7 +13,7 @@
 					class="absolute -z-10 left-0 top-0 w-full h-full flex items-center justify-center">
 					<div class="text-gray-500">
 						<font-awesome-icon :icon="faCopy" />
-						粘贴或拖动图片至此处
+						粘贴或拖动图片至此处，图片命名不支持中文，否则无法加载出！
 					</div>
 				</div>
 
