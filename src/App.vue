@@ -56,9 +56,9 @@ import { useRouter } from 'vue-router'
 import { ElScrollbar, ElConfigProvider } from 'element-plus'
 import zhCn from "element-plus/es/locale/lang/zh-cn"
 
-const repoLink = 'https://github.com/shenweiyan/Picx4R2'
+const repoLink = 'https://github.com/1436223139/Cloudflare-images-roim-picx'
 const repoName = 'GitHub'
-const appName = '图床管理工具'
+const appName = 'MouRen--Images'
 
 document.title = appName
 
